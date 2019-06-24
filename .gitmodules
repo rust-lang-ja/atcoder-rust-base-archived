@@ -1,6 +1,3 @@
-[submodule "submodules/proconio-rs"]
-	path = submodules/proconio-rs
-	url = https://github.com/statiolake/proconio-rs
 [submodule "submodules/bitset-fixed"]
 	path = submodules/bitset-fixed
 	url = https://github.com/hatoo/bitset-fixed
